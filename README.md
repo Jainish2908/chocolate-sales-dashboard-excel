@@ -23,3 +23,13 @@ The dashboard enables users to monitor sales performance, compare countries and 
 - Design a professional dashboard using Microsoft Excel.
 - Enable dynamic filtering using slicers.
 - Generate business insights to support decision-making.
+# ✨ Dashboard Features
+
+- 📊 Interactive Dashboard with dynamic slicers
+- 📈 KPI Cards displaying Total Revenue, Average Revenue, Total Orders, Total Boxes Shipped, Total Salespersons, and Total Products
+- 🌍 Country-wise Sales Analysis
+- 📅 Monthly Sales Trend Analysis
+- 👤 Top Salesperson Performance Analysis
+- 🍫 Top Product Performance Analysis
+- 📦 Boxes Shipped Analysis
+- 📉 Pivot Tables and Pivot Charts for interactive reporting
