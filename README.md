@@ -72,4 +72,21 @@ The dashboard enables users to monitor sales performance, compare countries and 
 - Data Visualization
 - Analytical Thinking
 - Reporting
-
+# 📂 Project Structure
+Chocolate-Sales-Dashboard/
+│
+├── Dashboard/
+│   └── Chocolate_Sales_Dashboard.xlsx
+│
+├── Data/
+│   └── README.md
+│
+├── Documentation/
+│   └── README.md
+│
+├── Images/
+│   ├── Dashboard_top.png
+│   └── Dashboard_bottom.png
+│
+├── README.md
+└── LICENSE
