@@ -48,3 +48,28 @@ The dashboard enables users to monitor sales performance, compare countries and 
 - 👤 Chess Bonnell achieved the highest sales among all salespersons.
 - 📈 Sales performance varied across months and countries, highlighting seasonal demand trends.
 - 📦 Product shipment volumes differed significantly across products, helping identify high-demand items.
+# 🛠️ Tools & Skills Used
+
+### Tools
+- Microsoft Excel 2019
+- GitHub
+
+### Excel Features
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Cards
+- Conditional Formatting
+- Charts & Visualizations
+- Excel Formulas (SUM, AVERAGE, COUNT, IF, etc.)
+
+### Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+- Analytical Thinking
+- Reporting
+
