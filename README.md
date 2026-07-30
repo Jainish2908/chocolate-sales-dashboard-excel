@@ -90,3 +90,10 @@ Chocolate-Sales-Dashboard/
 │
 ├── README.md
 └── LICENSE
+# ▶️ How to Use
+
+1. Download the Excel workbook from the **Dashboard** folder.
+2. Open the workbook using Microsoft Excel 2019 or later.
+3. Navigate to the **Dashboard** worksheet.
+4. Use the slicers to filter data by Country, Product, Salesperson, Year, and Quarter.
+5. Explore the interactive charts and KPI cards to analyze sales performance.
