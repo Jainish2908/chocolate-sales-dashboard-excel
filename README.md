@@ -33,3 +33,11 @@ The dashboard enables users to monitor sales performance, compare countries and 
 - 🍫 Top Product Performance Analysis
 - 📦 Boxes Shipped Analysis
 - 📉 Pivot Tables and Pivot Charts for interactive reporting
+# 📊 Key Performance Indicators (KPIs)
+
+- 💰 Total Revenue
+- 📦 Total Boxes Shipped
+- 📋 Total Orders
+- 👤 Total Salespersons
+- 🍫 Total Products
+- 📈 Average Revenue per Order
