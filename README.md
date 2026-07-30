@@ -10,6 +10,13 @@ This project demonstrates practical Excel skills used by Data Analysts to transf
 ### Dashboard - Bottom Section
 
 ![Dashboard Bottom](Images/Dashboard_bottom.png)
+## 📊 Dashboard Preview
+## 📑 Pivot Tables
+
+The project uses Pivot Tables to summarize and analyze sales data before creating the interactive dashboard.
+
+![Pivot Tables](Images/Pivot_Tables.png)
+
 # 📖 Project Overview
 
 The Chocolate Sales Dashboard is an interactive Microsoft Excel project developed to analyze and visualize chocolate sales data. The project transforms raw sales records into meaningful business insights using Excel's analytical features.
