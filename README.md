@@ -104,3 +104,10 @@ Chocolate-Sales-Dashboard/
 - Integrate SQL as the data source.
 - Automate dashboard refresh.
 - Include forecasting and trend analysis.
+# 👨‍💻 Author
+
+**Jainish Soni**
+
+Aspiring Data Analyst passionate about transforming raw data into meaningful business insights through interactive dashboards and data visualization.
+
+GitHub: https://github.com/Jainish2908
