@@ -13,9 +13,15 @@ This project demonstrates practical Excel skills used by Data Analysts to transf
 ## 📊 Dashboard Preview
 ## 📑 Pivot Tables
 
-The project uses Pivot Tables to summarize and analyze sales data before creating the interactive dashboard.
+The Pivot Tables summarize and organize the sales data, forming the foundation of the interactive dashboard. They provide insights into monthly sales, country performance, product performance, salesperson performance, and shipment trends.
 
-![Pivot Tables](Images/Pivot_Tables.png)
+### Pivot Tables - Top Section
+
+![Pivot Tables Top](Images/PivotTable_top.png)
+
+### Pivot Tables - Bottom Section
+
+![Pivot Tables Bottom](Images/PivotTable_bottom.png)
 
 # 📖 Project Overview
 
