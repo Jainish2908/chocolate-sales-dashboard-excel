@@ -41,3 +41,10 @@ The dashboard enables users to monitor sales performance, compare countries and 
 - 👤 Total Salespersons
 - 🍫 Total Products
 - 📈 Average Revenue per Order
+# 💡 Business Insights
+
+- 🇦🇺 Australia generated the highest overall sales.
+- 🍫 Smooth Silky Salty emerged as the top-selling product.
+- 👤 Chess Bonnell achieved the highest sales among all salespersons.
+- 📈 Sales performance varied across months and countries, highlighting seasonal demand trends.
+- 📦 Product shipment volumes differed significantly across products, helping identify high-demand items.
