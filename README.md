@@ -97,3 +97,10 @@ Chocolate-Sales-Dashboard/
 3. Navigate to the **Dashboard** worksheet.
 4. Use the slicers to filter data by Country, Product, Salesperson, Year, and Quarter.
 5. Explore the interactive charts and KPI cards to analyze sales performance.
+# 🚀 Future Improvements
+
+- Add Power Query for automated data cleaning.
+- Build the dashboard in Power BI.
+- Integrate SQL as the data source.
+- Automate dashboard refresh.
+- Include forecasting and trend analysis.
